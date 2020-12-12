@@ -1,0 +1,9 @@
+frmPool = 35, 103, 482, 679, , 22, 22, 397, 368, C
+mdlGame = 597, 120, 1044, 696, 
+PoolTable = 35, 103, 482, 679, 
+PoolBalls = 35, 103, 481, 679, 
+PoolCamera = 35, 103, 482, 679, 
+PoolCollisionController = 35, 103, 482, 679, 
+PoolBillboard = 35, 103, 482, 679, 
+ScreenSticker = 260, 115, 707, 691, 
+frmAbout = 399, 209, 815, 639, , 184, 184, 600, 610, C
